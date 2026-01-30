@@ -96,7 +96,7 @@ dats6401-project1/
 3. **Report**: Final narrative is in `docs/final_report.pdf`
 4. **References**: All sources documented in `references/bibliography.bib`
 
-## Requirements Met ✓
+## Requirements Met [✓]
 - [ ] At least 2 datasets with relationship/join
 - [ ] Dataset A: ≥500 rows, time field, geographic field, 2+ measures, 2+ categories
 - [ ] Dataset B: Shares join key, adds context
@@ -113,7 +113,7 @@ dats6401-project1/
 - **Week 4**: Final review and submission
 
 ## Contact
-[Your contact information]
+[Sayan Patra][sayan.patra@gwmail.gwu.edu]
 
 ---
-Last Updated: [Date]
+Last Updated: [29th January 2026]
