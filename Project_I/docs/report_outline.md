@@ -2,7 +2,7 @@
 
 **Title**: [Your Title Here]
 
-**Author(s)**: [Tambudzai Gundani , Sayan Patra]
+**Author(s)**: Tambudzai Gundani , Sayan Patra
 
 **Date**: [Submission Date]
 
