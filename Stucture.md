@@ -1,9 +1,14 @@
 dats6401-project1/
 ├─ README.md
 ├─ report/
-│  ├─ DATS6401_Project1_Narrative.md
-│  └─ figures/
-│     ├─ .gitkeep
+│  ├─ DATS6401_Project1_Narrative.md      # or .docx / .pdf once finalized
+│  └─ figures/                            # exported charts from Tableau
+│     ├─ fig01_map.png
+│     ├─ fig02_line.png
+│     ├─ fig03_bar.png
+│     ├─ fig04_table.png
+│     ├─ fig05_chart.png
+│     └─ fig06_chart.png
 ├─ data/
 │  ├─ raw/
 │  │  ├─ dataset_a_original.csv
@@ -15,15 +20,15 @@ dats6401-project1/
 │     ├─ dataset_a_codebook.md
 │     └─ dataset_b_codebook.md
 ├─ tableau/
-│  ├─ project1_workbook.twbx
+│  ├─ project1_workbook.twbx              # required packaged workbook
 │  ├─ dashboards/
-│  │  └─ main_dashboard.png
-│  └─ worksheets_notes.md
+│  │  └─ main_dashboard.png               # optional exported image
+│  └─ worksheets_notes.md                 # notes on each chart
 ├─ src/
-│  ├─ 01_data_exploration.ipynb
+│  ├─ 01_data_exploration.ipynb           # optional Python/R notebooks
 │  ├─ 02_data_cleaning.ipynb
 │  └─ 03_export_for_tableau.ipynb
 ├─ references/
-│  ├─ references.bib
+│  ├─ references.bib                      # if you use BibTeX
 │  └─ annotated_sources.md
-└─ CONTRIBUTING.md
+└─ CONTRIBUTING.md                        # or contributions.md (if team)
