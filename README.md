@@ -3,7 +3,7 @@
 - Please get into the folders to view project
 ### To Contributors : 
 - Please write the latest update ( in the below section) here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for other group members.
-- Best of Luck!!!
+
   
 ```
 Work log:
