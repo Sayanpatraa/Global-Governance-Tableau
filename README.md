@@ -2,7 +2,7 @@
 - Research on Visualisation(Used Platform : Tableau | Level: Graduate)
 - Please get into the folders to view project
 ### To Contributors : 
-- Please write the latest update here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for your other group member.
+- Please write the latest update ( in the below section) here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for your other group member.
 - Best of Luck!!!
   
 ```
