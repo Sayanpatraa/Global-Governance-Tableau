@@ -1,8 +1,8 @@
 # DATS 6401 Project 1 - Final Report Outline
 
-**Title**: [Your Compelling Title Here]
+**Title**: [Your Title Here]
 
-**Author(s)**: [Your Name(s)]
+**Author(s)**: [Tambudzai Gundani , Sayan Patra]
 
 **Date**: [Submission Date]
 
