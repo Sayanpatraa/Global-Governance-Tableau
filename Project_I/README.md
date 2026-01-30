@@ -1,4 +1,4 @@
-# DATS 6401 - Project 1
+# DATS 6401 - Project I
 
 ## Project Overview
 This repository contains all materials for DATS 6401 Project 1, including datasets, Tableau workbooks, analysis notebooks, and the final narrative report.
