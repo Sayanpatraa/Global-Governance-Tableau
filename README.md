@@ -3,7 +3,8 @@
 - Please get into the folders to view project
 ### To Contributors : 
 - Please write the latest update ( in the below section) here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for other group members.
-- Add Brainstorm ideas here :[raw/BrainStorm_Ideas.md](raw/BrainStorm_Ideas.md) 
+- Add Brainstorm ideas here :[raw/BrainStorm_Ideas.md](/Data-Viz-Project/Project_I/data/raw/BrainStorm_Ideas.md)
+
   
 ```
 Work log:
