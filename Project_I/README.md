@@ -113,7 +113,8 @@ dats6401-project1/
 - **Week 4**: Final review and submission
 
 ## Contact
-[Sayan Patra][sayan.patra@gwmail.gwu.edu]
+[Sayan Patra][sayan.patra@gwmail.gwu.edu], [Tambudzai Gundani][tambudzai.gundani@gwmail.gwu.edu]
+
 
 ---
 Last Updated: [29th January 2026]
