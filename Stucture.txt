@@ -31,4 +31,4 @@ dats6401-project1/
 ├─ references/
 │  ├─ references.bib                      # if you use BibTeX
 │  └─ annotated_sources.md
-└─ CONTRIBUTING.md                        # or contributions.md (if team)
+└─ CONTRIBUTING.md                        # or contributions.md (team)
