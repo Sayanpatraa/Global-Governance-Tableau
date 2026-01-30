@@ -55,8 +55,8 @@ dats6401-project1/
 ## Team Members & Contributions
 [If team project - add names and roles]
 
-- **Member 1**: [Name] - [Contribution]
-- **Member 2**: [Name] - [Contribution]
+- **Member 1**: [Tambudzai Gundani] - [Contribution: Equal]
+- **Member 2**: [Sayan Patra] - [Contribution: Equal]
 
 ## Datasets
 
