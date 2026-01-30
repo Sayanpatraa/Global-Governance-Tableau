@@ -1,3 +1,4 @@
+```
 dats6401-project1/
 ├─ README.md
 ├─ report/
@@ -32,3 +33,4 @@ dats6401-project1/
 │  ├─ references.bib                      # if you use BibTeX
 │  └─ annotated_sources.md
 └─ CONTRIBUTING.md                        # or contributions.md (team)
+```
