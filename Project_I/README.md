@@ -96,7 +96,7 @@ dats6401-project1/
 3. **Report**: Final narrative is in `docs/final_report.pdf`
 4. **References**: All sources documented in `references/bibliography.bib`
 
-## Requirements Met [✓]
+## Requirements Met [mark once accomplished]
 - [ ] At least 2 datasets with relationship/join
 - [ ] Dataset A: ≥500 rows, time field, geographic field, 2+ measures, 2+ categories
 - [ ] Dataset B: Shares join key, adds context
