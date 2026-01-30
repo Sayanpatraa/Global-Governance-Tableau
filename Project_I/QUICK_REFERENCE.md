@@ -27,11 +27,11 @@
 
 ### Visualizations (6+ Charts Required)
 
-Must include:
-1. ✓ Map
-2. ✓ Bar chart
-3. ✓ Table
-4. ✓ Line chart
+Must include[Mark once accomplished]:
+1. Map
+2. Bar chart
+3. Table
+4. Line chart
 5. Your choice
 6. Your choice
 
@@ -49,18 +49,18 @@ Must include:
 ## File Locations Quick Reference
 
 ```
-📁 Data Files
+ Data Files
    └─ /data/raw/                    ← Original datasets (don't modify)
    └─ /data/processed/              ← Cleaned datasets
    
-📁 Tableau Files  
+ Tableau Files  
    └─ /tableau/project1_workbook.twbx   ← Final packaged workbook
    
-📁 Report Files
+ Report Files
    └─ /docs/final_report.pdf         ← Submit this
    └─ /docs/figures/                 ← All chart screenshots
    
-📁 Documentation
+ Documentation
    └─ /data/raw/data_sources.md      ← Dataset documentation
    └─ /tableau/tableau_notes.md      ← Visualization notes
    └─ /references/bibliography.bib   ← Citation list
@@ -117,7 +117,7 @@ Formatting:
 
 ## Common Mistakes to Avoid
 
-❌ Don't:
+ Don't:
 - Use incompatible datasets without a join key
 - Create charts without clear purpose
 - Forget to define variables
@@ -127,7 +127,7 @@ Formatting:
 - Use non-credible sources
 - Submit at last minute
 
-✅ Do:
+ Do:
 - Start early
 - Choose interesting, relevant topic
 - Document everything as you go
