@@ -25,8 +25,8 @@
 
 **Good Data Sources**:
 - [U.S. government data](https://www.data.gov/datasets) 
-- [demographic data](https://www.census.gov/datasets)
-- [international data](https://www.worldbank.org/datasets)
+- [demographic data](https://www.census.gov)
+- [international data](https://www.worldbank.org)
 - [various datasets](https://www.kaggle.com/datasets)
 - [curated datasets](https://www.data.world/datasets)
 - [UCI Data Archives](https://archive.ics.uci.edu/datasets)
@@ -313,4 +313,4 @@
 
 ---
 
-Last Updated: [Date]
+Last Updated:30th January 2026
