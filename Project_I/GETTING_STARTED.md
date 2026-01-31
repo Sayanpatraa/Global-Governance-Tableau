@@ -1,6 +1,6 @@
 # Getting Started with Your DATS 6401 Project
 
-## Welcome! 👋
+## Welcome! 
 
 This repository is your complete project workspace. Everything is organized and ready to use.
 
@@ -178,34 +178,34 @@ Stuck? Here's where to look:
 
 ---
 
-## Pro Tips 💡
+## Pro Tips 
 
-✨ **Start Early**: This project takes longer than you think
+ **Start Early**: This project takes longer than you think
 
-✨ **Choose Interesting Data**: You'll do better work if you care about the topic
+ **Choose Interesting Data**: You'll do better work if you care about the topic
 
-✨ **Document Everything**: Future you will thank you
+ **Document Everything**: Future you will thank you
 
-✨ **Save Often**: Don't lose your work!
+ **Save Often**: Don't lose your work!
 
-✨ **Test Your Files**: Make sure .twbx opens before submitting
+ **Test Your Files**: Make sure .twbx opens before submitting
 
-✨ **Proofread**: Errors hurt your credibility
+ **Proofread**: Errors hurt your credibility
 
-✨ **Use the Checklist**: PROJECT_CHECKLIST.md is your friend
+ **Use the Checklist**: PROJECT_CHECKLIST.md is your friend
 
 ---
 
 ## Success Criteria
 
 Your project will be successful if it:
-- ✓ Answers clear research questions
-- ✓ Uses appropriate datasets
-- ✓ Creates effective visualizations
-- ✓ Tells a compelling story
-- ✓ Meets all technical requirements
-- ✓ Demonstrates course concepts
-- ✓ Is well-written and professional
+-  Answers clear research questions
+-  Uses appropriate datasets
+-  Creates effective visualizations
+-  Tells a compelling story
+-  Meets all technical requirements
+-  Demonstrates course concepts
+-  Is well-written and professional
 
 ---
 
