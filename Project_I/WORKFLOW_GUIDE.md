@@ -301,7 +301,7 @@
 
 ## Questions?
 
-- Check the PROJECT_CHECKLIST.md for requirements
+- Check the [PROJECT_CHECKLIST.md](../../PROJECT_CHECKLIST.md) for requirements
 - Review this workflow guide
 - Consult course materials
 - Ask in class or office hours
