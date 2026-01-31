@@ -224,7 +224,7 @@ This week:
 3. Complete data_sources.md
 4. Run exploratory_analysis.ipynb
 
-Good luck! You've got this! 🎓
+Good luck! You've got this! 
 
 ---
 
@@ -234,4 +234,4 @@ Good luck! You've got this! 🎓
 - Telling an interesting story
 - Demonstrating what you've learned
 
-Questions? Check the guides or ask your instructor!
+Questions? Check the guides or ask your team or instructor or use GPT!
