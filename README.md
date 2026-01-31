@@ -4,7 +4,7 @@
 ### To Contributors : 
 - Please write the latest update ( in the below section) here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for other group members.
 - Add Brainstorm ideas [here](Project_I/data/raw/BrainStorm_Ideas.md). or refer to 1.2 [here](Project_I/WORKFLOW_GUIDE.md) for data archives.
-
+- Immediate Work Actions : [link](/Project_I/GETTING_STARTED.md)
   
 ```
 Work log:
