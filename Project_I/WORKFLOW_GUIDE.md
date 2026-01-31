@@ -24,11 +24,11 @@
 - [ ] Download datasets to `data/raw/`
 
 **Good Data Sources**:
-- [U.S. government data](www.data.gov) 
-- [demographic data](www.census.gov)
-- [international data](www.worldbank.org)
-- [various datasets](www.kaggle.com)
-- [curated datasets](www.data.world)
+- [U.S. government data](https://www.data.gov) 
+- [demographic data](https://www.census.gov)
+- [international data](https://www.worldbank.org)
+- [various datasets](https://www.kaggle.com)
+- [curated datasets](https://www.data.world)
 - WHO, CDC, OECD, UN data portals
 - Academic repositories
 - Government agency open data portals
@@ -277,8 +277,8 @@
 ## Resources
 
 ### Tableau Learning
-- [Tableau Public Gallery](public.tableau.com/gallery)
-- [Tableau Training Videos](tableau.com/learn/training)
+- [Tableau Public Gallery](https://public.tableau.com/gallery)
+- [Tableau Training Videos](https://tableau.com/learn/training)
 - Course materials and lab examples
 
 ### Data Visualization
