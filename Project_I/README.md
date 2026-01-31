@@ -108,8 +108,8 @@ dats6401-project1/
 ## Timeline
 - **Week 1**: Dataset selection and exploration
 - **Week 2**: Data cleaning and Tableau visualization
-- **Week 2**: Dashboard creation and narrative writing
-- **Week 3**: Final review and submission
+- **Week 3**: Dashboard creation and narrative writing
+- **Week 4**: Final review and submission
 
 ## Contact
 [Sayan Patra](sayan.patra@gwmail.gwu.edu), [Tambudzai Gundani](tambudzai.gundani@gwmail.gwu.edu)
