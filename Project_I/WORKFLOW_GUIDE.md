@@ -288,7 +288,7 @@
 - Course textbook and readings
 
 ### Writing
-- [Purdue OWL for APA format](owl.purdue.edu)
+- [Purdue OWL for APA format](https://owl.purdue.edu)
 - University writing center
 - Grammarly or similar tools
 
