@@ -24,11 +24,11 @@
 - [ ] Download datasets to `data/raw/`
 
 **Good Data Sources**:
-- data.gov (U.S. government data)
-- census.gov (demographic data)
-- worldbank.org (international data)
-- kaggle.com (various datasets)
-- data.world (curated datasets)
+- [U.S. government data](data.gov) 
+- [demographic data](census.gov)
+- [international data](worldbank.org)
+- [various datasets](kaggle.com)
+- [curated datasets](data.world)
 - WHO, CDC, OECD, UN data portals
 - Academic repositories
 - Government agency open data portals
@@ -277,8 +277,8 @@
 ## Resources
 
 ### Tableau Learning
-- Tableau Public Gallery: public.tableau.com/gallery
-- Tableau Training Videos: tableau.com/learn/training
+- [Tableau Public Gallery](public.tableau.com/gallery)
+- [Tableau Training Videos](tableau.com/learn/training)
 - Course materials and lab examples
 
 ### Data Visualization
@@ -287,7 +287,7 @@
 - Course textbook and readings
 
 ### Writing
-- Purdue OWL for APA format: owl.purdue.edu
+- [Purdue OWL for APA format](owl.purdue.edu)
 - University writing center
 - Grammarly or similar tools
 
