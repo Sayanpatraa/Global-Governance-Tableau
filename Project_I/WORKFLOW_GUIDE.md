@@ -24,11 +24,12 @@
 - [ ] Download datasets to `data/raw/`
 
 **Good Data Sources**:
-- [U.S. government data](https://www.data.gov) 
-- [demographic data](https://www.census.gov)
-- [international data](https://www.worldbank.org)
-- [various datasets](https://www.kaggle.com)
-- [curated datasets](https://www.data.world)
+- [U.S. government data](https://www.data.gov/datasets) 
+- [demographic data](https://www.census.gov/datasets)
+- [international data](https://www.worldbank.org/datasets)
+- [various datasets](https://www.kaggle.com/datasets)
+- [curated datasets](https://www.data.world/datasets)
+- [UCI Data Archives](https://archive.ics.uci.edu/datasets)
 - WHO, CDC, OECD, UN data portals
 - Academic repositories
 - Government agency open data portals
