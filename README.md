@@ -9,10 +9,10 @@
 ```
 Work log:
 Comments(Updates) & Suggestions:
-29th Jan 2026 [8:19PM EST]  [Sayan] : Structured Git Backbone and added all the contributors,
-                                     [Future Action : Brainstorm Datasets.]
-30th Jan 2026 [10:35PM EST] [Sayan] : General Fix of Repo [Hyperlink Data Archives updated.
-                                     [Future Action : Brainstorm Datasets.]
+29th Jan 2026 [8:19PM EST]  [Sayan] : Structured Git Backbone and added all the contributors.
+                                     [Future Action Pending : Brainstorm Datasets.]
+30th Jan 2026 [10:35PM EST] [Sayan] : General Fix of Repo (Hyperlink Data Archives updated).
+                                     [Future Action Pending : Brainstorm Datasets.]
 ```
 
 
