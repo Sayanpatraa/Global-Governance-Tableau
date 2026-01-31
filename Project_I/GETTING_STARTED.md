@@ -234,4 +234,4 @@ Good luck! You've got this!
 - Telling an interesting story
 - Demonstrating what you've learned
 
-Questions? Check the guides or ask your team or instructor or use GPT!
+Questions? Check the guides or ask your team or instructor!
