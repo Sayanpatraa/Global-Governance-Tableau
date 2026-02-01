@@ -1,4 +1,4 @@
-project_I/
+Project_I/
 ├── .gitignore
 ├── README.md
 ├── PROJECT_CHECKLIST.md
