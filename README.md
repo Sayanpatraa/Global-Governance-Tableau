@@ -2,7 +2,7 @@
 - ***Research on Visualisation(Used Platform : Tableau | Language : Python  | Level: Graduate)***
 - **Please get into the folders to view project**
 ### To Contributors : 
-- **Please write the latest update ( in the below Work log section)** here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for other group members.
+- **Please write the latest update ( in the below work log section)** here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for other group members.
 - **Add Brainstorm ideas**   : [here](Project_I/data/raw/BrainStorm_Ideas.md) or refer to 1.2 [of the workflow guide](Project_I/WORKFLOW_GUIDE.md) for data archives.
 - **Immediate Work Actions** : [link](/Project_I/GETTING_STARTED.md)
   
