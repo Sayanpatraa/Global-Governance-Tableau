@@ -9,7 +9,7 @@ This repository contains all materials for DATS 6401 Project 1, including datase
 ## Project Structure
 
 ```
-dats6401-project1/
+Project_I/
 │
 ├── README.md                          # This file - project overview
 ├── PROJECT_CHECKLIST.md               # Requirements checklist
