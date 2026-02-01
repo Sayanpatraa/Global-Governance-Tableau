@@ -1,4 +1,4 @@
-dats6401-project1/
+project_I/
 ├── .gitignore
 ├── README.md
 ├── PROJECT_CHECKLIST.md
