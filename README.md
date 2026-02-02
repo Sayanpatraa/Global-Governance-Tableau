@@ -5,19 +5,15 @@
 - **Please write the latest update ( in the below work log section)** here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for other group members.
 - **Add Brainstorm ideas**   : [here](Project_I/data/raw/BrainStorm_Ideas.md) or refer to 1.2 [of the workflow guide](Project_I/WORKFLOW_GUIDE.md) for data archives.
 - **Immediate Work Actions** : [link](/Project_I/GETTING_STARTED.md)
-- **Project Management Guidelines**
-#### Project Management Board Rules:
+- **[Project Management Board](https://github.com/Sayanpatraa/data-viz-project/projects?query=is%3Aopen)**
+#### Project Management Guidelines:
 **Priority Hierarchy of Issues:**
 P0 > P1 > P2 (where P0 is highest priority)
-
-**[Project Board Link](https://github.com/Sayanpatraa/data-viz-project/projects?query=is%3Aopen)**
-
 **Workflow & Resolution Policy:**
 *   **Action (In Review -> Done) Rule:** An issue cannot be moved to the "Done" column by the person(s) who resolved it. This action must be taken by another contributor for review and verification.
 *   **Formula:** `[N(total members) - M(the person(s) who resolves the issue)]` are the only people who can move the item to "Done" under any circumstance after every one has reviewed and are on the same page.
-
-**Contributor Assignments:**
-Please add the name of the contributor to whom you are assigning the work below (add your name if you are opening and will resolve a specific section):
+**Contributor Notice:**
+Please add the name of the contributor to whom you are assigning the work below (add your name if you are opening and will resolve a specific section).
 
 ```
 Work log:
