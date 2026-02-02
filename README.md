@@ -13,8 +13,18 @@ P0 > P1 > P2 (where P0 is highest priority)
 * ***If you are assigned P0 you have the right to leave any other task in the project and focus only on that.***
 
 **Workflow & Resolution Policy:**
+*   **Action (To-do) Rule:** An issue can opened by any contributor but can only be assigned by project lead contributor.
+*   **Action (To-do -> In Progress) Rule:** Can Only be done by the assigned person. 
+*   **Action (In Progress -> In Review) Rule:** Can Only be done by the assigned person. 
 *   **Action (In Review -> Done) Rule:** An issue cannot be moved to the "Done" column by the person(s) who resolved it. This action must be taken by another contributor for review and verification.
-*   **Formula[T]:** `[T=([N(total members) - M(the person(s) who resolves the issue)]/2)+1]` are the only people who can move the item to "Done" under any circumstance after every one has reviewed and are on the same page.
+*   **Formula[T]:**
+`$$
+T = \begin{cases} 
+1, & \text{if } N = 2 \\
+2, & \text{if } N \ge 3 \\
+\left\lfloor \frac{N - M}{2} \right\rfloor + 1, & \text{otherwise (Upper Bound)} 
+\end{cases}
+$$` are the only people who can move the item to "Done" under any circumstance after every one has reviewed and are on the same page.
 
 **Contributor Notice:**
 Please add the name(s) of the contributor to whom you are assigning the work below (add your name if you are opening and will resolve a specific section).
