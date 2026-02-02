@@ -18,13 +18,20 @@ P0 > P1 > P2 (where P0 is highest priority)
 *   **Action (In Progress -> In Review) Rule:** Can Only be done by the assigned person. 
 *   **Action (In Review -> Done) Rule:** An issue cannot be moved to the "Done" column by the person(s) who resolved it. This action must be taken by another contributor for review and verification.
 *   **Formula[T]:**
-`$$
+$$
 T = \begin{cases} 
 1, & \text{if } N = 2 \\
 2, & \text{if } N \ge 3 \\
 \left\lfloor \frac{N - M}{2} \right\rfloor + 1, & \text{otherwise (Upper Bound)} 
 \end{cases}
-$$` are the only people who can move the item to "Done" under any circumstance after every one has reviewed and are on the same page.
+$$
+
+**Definitions:**
+*   **$N$**: Total team members.
+*   **$M$**: The person(s) who resolved the issue (excluded from moving to Done).
+*   **$T$**: The count of eligible contributors required to move the item to "Done."
+
+After T approvals the issue can be moved to "Done" under any circumstance after every one has reviewed and are on the same page.[Action by only Admins]
 
 **Contributor Notice:**
 Please add the name(s) of the contributor to whom you are assigning the work below (add your name if you are opening and will resolve a specific section).
