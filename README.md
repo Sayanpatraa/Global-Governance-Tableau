@@ -10,7 +10,7 @@
 
 **Priority Hierarchy of Issues:**
 P0 > P1 > P2 (where P0 is highest priority)
-* **If you are assigned P0 you have the right to leave any other task in the project and focus only on that**.
+* ***If you are assigned P0 you have the right to leave any other task in the project and focus only on that.***
 
 **Workflow & Resolution Policy:**
 *   **Action (In Review -> Done) Rule:** An issue cannot be moved to the "Done" column by the person(s) who resolved it. This action must be taken by another contributor for review and verification.
