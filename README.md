@@ -5,7 +5,7 @@
 - **Please write the latest update ( in the below work log section)** here like what changes you did and a small description and which folder was it updated to or any changes that you suggest for other group members.
 - **Add Brainstorm ideas**   : [here](Project_I/data/raw/BrainStorm_Ideas.md) or refer to 1.2 [of the workflow guide](Project_I/WORKFLOW_GUIDE.md) for data archives.
 - **Immediate Work Actions** : [link](/Project_I/GETTING_STARTED.md)
-  
+- **PM**[P0>P1>P2( Priority)/Openisssues]:[link](/data-viz-project/projects?query=is%3Aopen)
 ```
 Work log:
 Comments(Updates) & Suggestions:
