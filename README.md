@@ -7,8 +7,11 @@
 - **Immediate Work Actions** : [link](/Project_I/GETTING_STARTED.md)
 - **[Project Management Board](https://github.com/Sayanpatraa/data-viz-project/projects?query=is%3Aopen)**
 #### Project Management Guidelines:
+
 **Priority Hierarchy of Issues:**
 P0 > P1 > P2 (where P0 is highest priority)
+* **If you are assigned P0 you have the right to leave any other task in the project and focus only on that**
+
 **Workflow & Resolution Policy:**
 *   **Action (In Review -> Done) Rule:** An issue cannot be moved to the "Done" column by the person(s) who resolved it. This action must be taken by another contributor for review and verification.
 *   **Formula:** `[N(total members) - M(the person(s) who resolves the issue)]` are the only people who can move the item to "Done" under any circumstance after every one has reviewed and are on the same page.
