@@ -6,7 +6,7 @@
 - **Add Brainstorm ideas**   : [here](Project_I/data/raw/BrainStorm_Ideas.md) or refer to 1.2 [of the workflow guide](Project_I/WORKFLOW_GUIDE.md) for data archives.
 - **Immediate Work Actions** : [link](/Project_I/GETTING_STARTED.md)
 - **Project Management Guidelines**
-
+#### Project Management Board Rules:
 **Priority Hierarchy of Issues:**
 P0 > P1 > P2 (where P0 is highest priority)
 
