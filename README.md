@@ -17,7 +17,7 @@ P0 > P1 > P2 (where P0 is highest priority)
 *   **Formula[T]:** `[T=([N(total members) - M(the person(s) who resolves the issue)]/2)+1]` are the only people who can move the item to "Done" under any circumstance after every one has reviewed and are on the same page.
 
 **Contributor Notice:**
-Please add the name of the contributor to whom you are assigning the work below (add your name if you are opening and will resolve a specific section).
+Please add the name(s) of the contributor to whom you are assigning the work below (add your name if you are opening and will resolve a specific section).
 
 ```
 Work log:
