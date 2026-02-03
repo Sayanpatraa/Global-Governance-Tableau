@@ -9,17 +9,16 @@
 ```
 
 --
-# Global Health–Economy–Governance System (1900–Present)
-
 #### Idea2
+
+#### Global Health–Economy–Governance System (1900–Present)
+
 
 The project of studying how population health, economic performance, financial stability, government policy, governance quality, and public communication have interacted globally from the early 20th century to the present.
 
 Rather than focusing on short-term crises, this project will analyze long-term structural relationships across more than a century of data, including wars, depressions, technological revolutions, and policy shifts.
 
 The goal is to understand how societies manage large-scale risks and development over time.
-
----
 
 #### Research Questions
 
@@ -28,8 +27,6 @@ The goal is to understand how societies manage large-scale risks and development
 3. How do major financial crises relate to changes in public health and policy?
 4. How does economic growth influence life expectancy and mortality?
 5. Do governance and institutional quality affect crisis resilience?
-
----
 
 #### Primary Join Keys
 
