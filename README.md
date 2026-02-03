@@ -28,7 +28,7 @@ T = \begin{cases}
 **Definitions:**
 *   **$N$**: Total team members.
 *   **$M$**: The person(s) who resolved the issue (excluded from moving to Done).
-*   **$T$**: The count of eligible contributors required to move the item to "Done."
+*   **$T$**: The count of eligible contributors required to move the item to "Done".
 
 After T approvals the issue can be moved to "Done" under any circumstance after every one has reviewed and are on the same page.[Action by only Admins when group is >5]
 
