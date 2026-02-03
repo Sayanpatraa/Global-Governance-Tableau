@@ -19,7 +19,7 @@ P0 > P1 > P2 (where P0 is highest priority)
 *   **Action (In Review -> Done) Rule:** An issue cannot be moved to the "Done" column by the person(s) who resolved it. This action must be taken by another contributor for review and verification. There should be **$T$** approvals to move it to done. 
 *   **Formula[T]:**
 ```math
-**$T$** = \begin{cases} 
+T = \begin{cases} 
 1, & \text{if } N = 2 \\
 2, & \text{if } N \ge 3 \\
 \left\lfloor \frac{N - M}{2} \right\rfloor + 1, & \text{otherwise (Upper Bound)} 
