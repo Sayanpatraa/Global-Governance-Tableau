@@ -30,7 +30,7 @@ T = \begin{cases}
 *   **$M$**: The person(s) who resolved the issue (excluded from moving to Done).
 *   **$T$**: The count of eligible contributors required to move the item to "Done".
 
-After T approvals the issue can be moved to "Done" under any circumstance after every one has reviewed and are on the same page.[Action by only Admins when group is >5]
+After T approvals the issue can be moved to "Done" under any circumstance after every one has reviewed and are on the same page.[Action can be taken by only Admins when group when **$N$** > 5 after verfying **$T$**]
 
 **Contributor Notice:**
 Please add the name(s) of the contributor to whom you are assigning the work below (add your name if you are opening and will resolve a specific section).
