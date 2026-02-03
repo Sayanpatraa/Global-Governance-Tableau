@@ -10,7 +10,10 @@
 
 **Priority Hierarchy of Issues:**
 P0 > P1 > P2 (where P0 is highest priority)
-* ***If you are assigned P0 you have the right to leave any other task in the project and focus only on that.***
+* ***If you are assigned P0(turnaround: 24-48hrs) you have the right to leave any other task in the project and focus only on that.***
+* ***If you are assigned P1 then turnaround should be within: 48-96hrs***
+* ***If you are assigned P3 then you can do it within 2 weeks***
+
 
 **Workflow & Resolution Policy:**
 *   **Action (To-do) Rule:** An issue can opened by any contributor but can only be assigned by project lead contributor.
