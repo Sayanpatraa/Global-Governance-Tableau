@@ -16,7 +16,7 @@ P0 > P1 > P2 (where P0 is highest priority)
 *   **Action (To-do) Rule:** An issue can opened by any contributor but can only be assigned by project lead contributor.
 *   **Action (To-do -> In Progress) Rule:** Can Only be done by the assigned person(s). 
 *   **Action (In Progress -> In Review) Rule:** Can Only be done by the assigned person(s). 
-*   **Action (In Review -> Done) Rule:** An issue cannot be moved to the "Done" column by the person(s) who resolved it. This action must be taken by another contributor for review and verification.
+*   **Action (In Review -> Done) Rule:** An issue cannot be moved to the "Done" column by the person(s) who resolved it. This action must be taken by another contributor for review and verification. There should be **$T$** approvals to move it to done. 
 *   **Formula[T]:**
 ```math
 T = \begin{cases} 
