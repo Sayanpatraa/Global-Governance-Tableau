@@ -1,4 +1,11 @@
 #### Add Below:
+
+In Response to TA's Request to submit Title and Short Description I added this under our names.
+
+#### Title:: Global Health Economy Governance Dynamics (1900–Present): A Visual Exploration of Long-Term Development Patterns
+
+Short Description:: This project visualizes the long-term relationships between health outcomes, economic development, and governance quality across countries from 1900 to the present. Using harmonized country-year datasets from global public data sources, we will create interactive time-series charts, maps, and multivariate visualizations to examine how economic growth and institutional strength relate to life expectancy, mortality, and crisis resilience over time.
+
 #### Idea1
 - Data Visualization as Communication:  https://www.youtube.com/watch?v=RUwS1uAdUcI&t=159s. Though posted some 20 years ago, this to me remains one of the best unique visuals that meets the criteria of "A Picture is worth a thousand words. Check it Out especially animated bubble chart. Impressive stuff
 ```
