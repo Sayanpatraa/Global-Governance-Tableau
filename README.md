@@ -437,36 +437,17 @@ global-health-economy-governance/
 ├── README.md
 │
 ├── data/
-│   ├── raw/
-│   │   ├── gapminder_life_expectancy.csv
-│   │   ├── world_bank_indicators.csv
-│   │   └── vdem_governance.csv
-│   │
-│   ├── processed/
-│   │   ├── dataset_a_health_economy.csv
-│   │   ├── dataset_b_governance.csv
-│   │   └── tableau_ready_data.csv
+│   data is too big to be uploaded
 │
 ├── tableau/
-│   ├── project_1_workbook.twbx
-│   ├── project_2_workbook.twbx
-│   └── tableau_prep_flow.tflx
+│   ├── project_I&II_workbook.twbx
+│   
 │
 ├── reports/
-│   ├── project_1_report.pdf
-│   └── project_2_report.pdf
-│
-├── images/
-│   ├── project_1_dashboard.png
-│   ├── project_2_dashboard.png
-│   ├── covid_map.png
-│   ├── corruption_bar_chart.png
-│   ├── income_mobility_area_chart.png
-│   └── covid_rankings_table.png
-│
-└── docs/
-    ├── variable_dictionary.md
-    └── methodology_notes.md
+    ├── project_1_report.pdf
+    └── project_2_report.pdf
+
+
 ```
 
 ---
